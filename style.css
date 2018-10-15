@@ -1,0 +1,48 @@
+.main{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#cards{
+	border-color: #c3c4c8;
+}
+
+#card-2{
+	border-color: orange;
+}
+
+#heading{
+	font-weight: bold;
+}
+
+#text{
+	color: #6c6866;
+}
+
+.card-text{
+	color: #b23626;
+	font-weight: bold;
+}
+
+p{
+	color: #327cc8;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.extra{
+	color:#b23626; 
+}
+
+.from{
+	color: #c3c4c8;
+}
+
+#icon{
+	color: #f7b45d;
+	margin: 3px;
+}
+
+.card{
+	margin: 5px;
+}
